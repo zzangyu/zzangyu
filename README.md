@@ -1,13 +1,20 @@
-![리드미_배너 사본](https://user-images.githubusercontent.com/30336663/131672926-34c72d4b-5237-4267-b3a3-83fa37d40c2a.png)
+![venice](https://user-images.githubusercontent.com/104552888/178725503-f55855d0-b7f6-4079-9724-2cb48f843bbf.jpg)
 
 <h3>✨ Tech Stack ✨</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring-black?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp<br>
+</p>
+
+<h3> Tools </h3>
+<p>
+ <img src="https://img.shields.io/badge/Eclipse IDE-black?style=flat-square&logo=Eclipse IDE&logoColor=white"/>&nbsp
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
+ <img src="https://img.shields.io/badge/Visual Studio Code-yellow?style=flat-square&logo=Visual Studio Code&logoColor=blue"/>&nbsp 
+ <img src="https://img.shields.io/badge/GitHub-pink?style=flat-square&logo=GitHub&logoColor=blue"/>&nbsp
 </p>
 
 <h3>SNS 💬</h3>
